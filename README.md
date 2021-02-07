@@ -39,3 +39,7 @@ This Pages site will use the layout and styles from the Jekyll theme that've bee
 ### Support or Contact
 
 Having trouble with Pages? Check out its [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and they’ll help you sort it out.
+
+## [Discussions](https://github.com/JavascriptLearner815/ka-projects/discussions)
+
+We'll be using Discussions for questions, engaging with others, sharing ideas, presenting your own creations, and more. *Look at the [introduction discussion](https://github.com/JavascriptLearner815/ka-projects/discussions/1) for more information.*
