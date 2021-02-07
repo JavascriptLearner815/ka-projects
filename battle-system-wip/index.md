@@ -2,6 +2,8 @@
 
 # Battle System (WIP)
 
+***[Return to Homepage?](https://javascriptlearner815.github.io/ka-projects/)***
+
 Welcome to the [Battle System (WIP)][link] documentation!
 
 ## Table of Contents
