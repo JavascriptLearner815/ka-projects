@@ -1,6 +1,6 @@
 [link]: https://www.khanacademy.org/computer-programming/battle-system-wip/4983159919165440
 
-# Battle System (WIP)
+# [Battle System (WIP)][link]
 
 - **[Return to Homepage](https://javascriptlearner815.github.io/ka-projects/)**
 
