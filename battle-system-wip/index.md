@@ -23,6 +23,7 @@ Welcome to the [Battle System (WIP)][link] documentation!
     1. [Death](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/battle-flow/death/)
         1. [Normal](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/battle-flow/death/normal)
         1. [Mythic](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/battle-flow/death/mythic)
+        1. [Super-Mythic](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/battle-flow/death/super-mythic)
         1. [K.O.](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/battle-flow/death/ko)
         1. [Fake](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/battle-flow/death/fake)
         1. [Fair](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/battle-flow/death/fair)
