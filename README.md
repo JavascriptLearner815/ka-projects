@@ -1,16 +1,20 @@
-# ka-projects
+[pages]: https://pages.github.com/
+[md]: https://daringfireball.net/projects/markdown/
+[jekyll]: https://jekyllrb.com/
 
-Documentations for my Khan Academy projects.
+# [ka-projects](https://github.com/JavascriptLearner815/ka-projects)
 
-## Welcome to GitHub Pages
+[Documentations](https://javascriptlearner815.github.io/ka-projects/) for [my](https://github.com/JavascriptLearner815) [Khan Academy](https://khanacademy.org) [projects](https://khanacademy.org/profile/SpeedoThreeSixty).
+
+## Welcome to [GitHub Pages][pages]
 
 Use the [editor on GitHub](https://github.com/JavascriptLearner815/ka-projects/edit/main/index.md) to maintain and preview the content for the site's homepage in Markdown files.
 
-Whenever a commit is added to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in the site, from the content in its Markdown files.
+Whenever a commit is added to this repository, [GitHub Pages][pages] will run [Jekyll][jekyll] to rebuild the [pages][pages] in the site, from the content in its [Markdown files][md].
 
-### Markdown
+### [Markdown][md]
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for:
+[Markdown][md] is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for:
 
 ```markdown
 Syntax highlighted code block
@@ -32,14 +36,14 @@ Syntax highlighted code block
 
 For more details, see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### [Jekyll][jekyll] Themes
 
-This Pages site will use the layout and styles from the Jekyll theme that've been selected in the [repository settings](https://github.com/JavascriptLearner815/ka-projects/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+This [Pages][pages] site will use the layout and styles from the [Jekyll][jekyll] theme that've been selected in the [repository settings](https://github.com/JavascriptLearner815/ka-projects/settings). The name of this theme is saved in the [Jekyll][jekyll] `_config.yml` configuration file.
 
-### Support or Contact
+### [Support](https://docs.github.com/categories/github-pages-basics/) or [Contact](https://support.github.com/contact)
 
-Having trouble with Pages? Check out its [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and they’ll help you sort it out.
+Having trouble with [Pages][pages]? Check out its [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and they’ll help you sort it out.
 
 ## [Discussions](https://github.com/JavascriptLearner815/ka-projects/discussions)
 
-We'll be using Discussions for questions, engaging with others, sharing ideas, presenting your own creations, and more. *Look at the [introduction discussion](https://github.com/JavascriptLearner815/ka-projects/discussions/1) for more information.*
+We'll be using [Discussions](https://github.com/JavascriptLearner815/ka-projects/discussions) for [questions](https://github.com/JavascriptLearner815/ka-projects/discussions/categories/q-a), [engaging with others](https://github.com/JavascriptLearner815/ka-projects/discussions/categories/general), [sharing ideas](https://github.com/JavascriptLearner815/ka-projects/discussions/categories/ideas), [presenting your own creations](https://github.com/JavascriptLearner815/ka-projects/discussions/categories/show-and-tell), [and more](https://github.com/JavascriptLearner815/ka-projects/discussions/1). *Look at the [introduction discussion](https://github.com/JavascriptLearner815/ka-projects/discussions/1) for more information.*
