@@ -30,3 +30,4 @@ Welcome to the [Battle System (WIP)][link] documentation!
     1. [Player](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/config/player/)
     1. [Enemy Map](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/config/enemy-map/)
     1. [Enemy](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/config/enemy/)
+    1. [Battle](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/config/battle/)
