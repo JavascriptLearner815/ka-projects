@@ -18,6 +18,7 @@ Welcome to the [Battle System (WIP)][link] documentation!
         1. [Taunt](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/battle-flow/battle-actions/taunt)
         1. [Flee](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/battle-flow/battle-actions/flee)
         1. [Hint](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/battle-flow/battle-actions/hint)
+        1. [Pass](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/battle-flow/battle-actions/pass)
         1. [Collect Weapon](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/battle-flow/battle-actions/collect-weapon)
     1. [Death](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/battle-flow/death/)
         1. [Normal](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/battle-flow/death/normal)
