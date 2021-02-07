@@ -26,3 +26,7 @@ Welcome to the [Battle System (WIP)][link] documentation!
         1. [K.O.](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/battle-flow/death/ko)
         1. [Fake](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/battle-flow/death/fake)
         1. [Fair](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/battle-flow/death/fair)
+1. [Config](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/config/)
+    1. [Player](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/config/player/)
+    1. [Enemy Map](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/config/enemy-map/)
+    1. [Enemy](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/config/enemy/)
