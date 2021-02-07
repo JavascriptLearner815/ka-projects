@@ -5,7 +5,7 @@
 - **[Return to Homepage](https://javascriptlearner815.github.io/ka-projects/)**
 - **[Return to Battle System (WIP) Homepage](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/)**
 
-*[Battle](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/config/battle/) flow* is controlled in turns. [Enemies](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/config/enemy/) are placed based on their position
+*[Battle flow](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/battle-flow/)* is controlled in turns. [Enemies](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/config/enemy/) are placed based on their position
 in the [battle](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/config/battle/)'s corresponding [enemy map](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/config/enemy-map/).
 
 The [player](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/config/player/) plays first, choosing one of their unlocked and available [battle actions](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/battle-flow/battle-actions/).
