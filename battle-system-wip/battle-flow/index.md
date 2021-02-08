@@ -1,8 +1,9 @@
 # [Battle System (WIP)](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/)
 
+- **[Return to Homepage](https://javascriptlearner815.github.io/ka-projects/)**
+
 ## [Battle Flow](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/battle-flow/)
 
-- **[Return to Homepage](https://javascriptlearner815.github.io/ka-projects/)**
 - **[Return to *Battle System (WIP)* Homepage](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/)**
 
 *[Battle flow](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/battle-flow/)* is controlled in turns. [Enemies](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/config/enemy/) are placed based on their position
