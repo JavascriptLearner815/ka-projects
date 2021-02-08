@@ -14,7 +14,7 @@ Then, the [enemy or enemies](https://javascriptlearner815.github.io/ka-projects/
 
 This turn-based combat system proceeds until either the [player](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/config/player/) successfully [flees](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/battle-flow/battle-actions/flee) or the [player](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/config/player/)/[enemy](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/config/enemy/) [dies](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/battle-flow/death/).
 
-### Table of Contents
+## Table of Contents
 
 1. [Battle Flow](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/battle-flow/) ⬅ You're Here
     1. [Starting a Battle](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/battle-flow/starting-a-battle/)
