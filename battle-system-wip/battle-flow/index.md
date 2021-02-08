@@ -1,6 +1,6 @@
 # [Battle System (WIP)](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/)
 
-## [Battle Flow](https://javascriptlearner815.github.io/ka-proejcts/battle-system-wip/battle-flow/)
+## [Battle Flow](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/battle-flow/)
 
 - **[Return to Homepage](https://javascriptlearner815.github.io/ka-projects/)**
 - **[Return to *Battle System (WIP)* Homepage](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/)**
