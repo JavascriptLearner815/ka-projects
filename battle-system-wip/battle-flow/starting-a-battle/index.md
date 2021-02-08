@@ -10,6 +10,12 @@
 
 - **[Return to *Battle System (WIP) Battle Flow* Homepage](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/battle-flow/)**
 
+When the [player](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/config/player/) collides with an [enemy](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/config/enemy/) out-of-[battle](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/config/battle/):
+
+[Positive](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/battle-flow/starting-a-battle/positive) will display green.
+[Neutral](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/battle-flow/starting-a-battle/neutral) will display blue.
+[Negative](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/battle-flow/starting-a-battle/negative) will display red.
+
 ## Table of Contents
 
 1. [Battle Flow](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/battle-flow/)
