@@ -12,7 +12,7 @@ The [player](https://javascriptlearner815.github.io/ka-projects/battle-system-wi
 
 Then, the [enemy or enemies](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/config/enemy/) play their move(s) that're specified in their [enemy](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/config/enemy/) IDs.
 
-This turn-based combat system proceeds until either the [player](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/config/player/) successfully [flees](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/battle-flow/battle-actions/flee) or the [player](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/config/player/)/[enemy](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/config/enemy/) [dies](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/battle-flow/death/).
+This turn-based combat system proceeds until either the [player](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/config/player/) successfully [flees](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/battle-flow/battle-actions/flee), or the [player](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/config/player/)/[enemy](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/config/enemy/) [dies](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/battle-flow/death/) *without it being a [fake](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/battle-flow/death/fake)*.
 
 ## Table of Contents
 
