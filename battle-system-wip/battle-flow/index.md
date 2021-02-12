@@ -43,3 +43,4 @@ This turn-based combat system proceeds until either the [player](https://javascr
     1. [Enemy Map](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/config/enemy-map/)
     1. [Enemy](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/config/enemy/)
     1. [Battle](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/config/battle/)
+        1. [Battle ID](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/config/battle/id)
