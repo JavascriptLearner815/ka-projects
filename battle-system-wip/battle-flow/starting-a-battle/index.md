@@ -10,7 +10,7 @@
 
 - **[Return to *Battle System (WIP) Battle Flow* Homepage](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/battle-flow/)**
 
-When the [player](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/config/player/) collides with an [enemy](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/config/enemy/) out-of-[battle](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/config/battle/), the enemy's corresponding [battle](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/config/battle/) ID will trigger. These are the colors based on each beginning state:
+When the [player](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/config/player/) collides with an [enemy](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/config/enemy/) out-of-[battle](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/config/battle/), the enemy's corresponding [battle ID](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/config/battle/id) will trigger. These are the colors based on each beginning state:
 
 [Positive](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/battle-flow/starting-a-battle/positive) will display green;
 [neutral](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/battle-flow/starting-a-battle/neutral) will display blue;
@@ -44,3 +44,4 @@ When the [player](https://javascriptlearner815.github.io/ka-projects/battle-syst
     1. [Enemy Map](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/config/enemy-map/)
     1. [Enemy](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/config/enemy/)
     1. [Battle](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/config/battle/)
+        1. [Battle ID](https://javascriptlearner815.github.io/ka-projects/battle-system-wip/config/battle/id)
